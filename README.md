@@ -19,6 +19,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -45,8 +46,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
