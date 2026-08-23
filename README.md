@@ -21,12 +21,14 @@
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 ## Trie
 |  |
 | ------- |
