@@ -22,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 ## String
 |  |
@@ -63,4 +64,9 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
