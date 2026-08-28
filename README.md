@@ -25,6 +25,7 @@
 | [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
