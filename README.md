@@ -26,6 +26,7 @@
 | [0258-add-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
@@ -69,6 +70,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
