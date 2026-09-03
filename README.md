@@ -27,6 +27,7 @@
 | [0371-sum-of-two-integers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
@@ -88,8 +89,10 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
