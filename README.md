@@ -25,6 +25,7 @@
 | [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0507-perfect-number) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
