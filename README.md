@@ -24,6 +24,7 @@
 | [0069-sqrtx](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
@@ -106,4 +107,8 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
