@@ -33,6 +33,7 @@
 | [0507-perfect-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0866-prime-palindrome](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0866-prime-palindrome) |
 | [1137-n-th-tribonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0866-prime-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
