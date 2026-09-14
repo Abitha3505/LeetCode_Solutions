@@ -38,6 +38,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
