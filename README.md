@@ -28,6 +28,7 @@
 | [0319-bulb-switcher](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
@@ -107,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
