@@ -31,6 +31,7 @@
 | [0343-integer-break](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
@@ -48,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 ## Trie
 |  |
@@ -95,6 +97,7 @@
 | [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
