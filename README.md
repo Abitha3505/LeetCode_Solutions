@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0015-3sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 | [0866-prime-palindrome](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0866-prime-palindrome) |
 | [1137-n-th-tribonacci-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
