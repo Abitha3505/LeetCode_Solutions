@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0015-3sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3024-type-of-triangle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3024-type-of-triangle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0015-3sum) |
+| [3024-type-of-triangle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
