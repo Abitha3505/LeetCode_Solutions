@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0941-valid-mountain-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3024-type-of-triangle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
