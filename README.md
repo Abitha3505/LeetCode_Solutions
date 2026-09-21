@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0941-valid-mountain-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3024-type-of-triangle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
