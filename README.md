@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0896-monotonic-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
