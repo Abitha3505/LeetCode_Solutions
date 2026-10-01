@@ -72,6 +72,7 @@
 | [0015-3sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0633-sum-of-square-numbers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -166,4 +167,5 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
