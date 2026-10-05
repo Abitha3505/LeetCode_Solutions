@@ -17,12 +17,14 @@
 | [1480-running-sum-of-1d-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3024-type-of-triangle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3024-type-of-triangle) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -173,4 +175,5 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
