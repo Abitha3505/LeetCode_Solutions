@@ -73,6 +73,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0633-sum-of-square-numbers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0231-power-of-two) |
@@ -173,10 +175,15 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
