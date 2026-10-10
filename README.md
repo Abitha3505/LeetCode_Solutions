@@ -25,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -75,6 +76,7 @@
 | [0015-3sum](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0633-sum-of-square-numbers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -178,6 +180,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
@@ -193,4 +196,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
