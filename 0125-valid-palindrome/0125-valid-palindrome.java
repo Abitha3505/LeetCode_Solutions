@@ -10,17 +10,14 @@ class Solution {
         char[] arr=str.toCharArray();
         int right=sb.length()-1;
         int left=0;
-        boolean flag=true;
         while(left<right){
             if(arr[left]!=arr[right]){
-                flag=false;
+                return false;
             }
             left++;
             right--;
         }
-        if(flag)
-            return true;
-        else
-            return false;
+        return true;
     }
 }
+        
