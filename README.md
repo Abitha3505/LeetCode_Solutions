@@ -64,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0504-base-7) |
 ## Trie
@@ -195,6 +196,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
