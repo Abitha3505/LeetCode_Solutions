@@ -26,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -82,6 +83,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0633-sum-of-square-numbers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -189,6 +191,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
