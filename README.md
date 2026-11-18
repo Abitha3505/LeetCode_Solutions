@@ -234,6 +234,7 @@
 | [0178-rank-scores](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0184-department-highest-salary](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Abitha3505/LeetCode_Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
